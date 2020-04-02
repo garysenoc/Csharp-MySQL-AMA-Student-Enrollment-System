@@ -1,0 +1,15 @@
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\bin\Debug\amaEnrollment.exe.config
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\bin\Debug\amaEnrollment.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\bin\Debug\amaEnrollment.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.csprojResolveAssemblyReference.cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.Properties.Resources.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.csproj.GenerateResource.Cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.LOGIN.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.MAINFORM.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.SUBJECT.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.ADDSTUDENT.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.MANAGESTUDENT.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.VIEW.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\amaEnrollment\amaEnrollment\obj\Debug\amaEnrollment.biodata.resources
